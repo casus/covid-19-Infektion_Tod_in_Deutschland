@@ -38,4 +38,6 @@ if (!dir.exists(Arxiv) {dir.create(Arxiv)}
 filename_kreise_date <- paste("Arxiv/", date,"_Germany_Counties_COVID19_Death_Infections", "csv", sep=".")
 filename_kreise <- paste("Actual_Germany_Counties_COVID19_Death_Infections", "csv", sep=".")
 
+write.csv(DATA, filename_kreise_date, row.names = FALSE)
+write.csv(DATA, filename_kreise, row.names = FALSE)
 dbDisconnect(con)
