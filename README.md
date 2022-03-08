@@ -1,4 +1,5 @@
 # Covid-19 Death and Infections in Germany
+[![DOI](https://zenodo.org/badge/462876343.svg)](https://zenodo.org/badge/latestdoi/462876343)
 
 [CASUS-HZDR](https://www.casus.science) | CASUS. 
 
