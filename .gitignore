@@ -1,3 +1,5 @@
 *.Rhistory
 *.Rdata
 fileExtraction.R
+Archive/2022_12_22_Czech_Obec_COVID19_Infections.csv
+Czech_Obec_COVID19_Infections.csv
